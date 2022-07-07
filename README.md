@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## MCPE DL Master - Skins, Mods & Addons
 
-You can use the [editor on GitHub](https://github.com/mcpe-dl/mcpe-dl.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Minecraft Pocket Edition (MCPE) is a mobile game version of Minecraft developed by Mojang. MCPE is available on Android and iOS devices. The game can be played in Creative or Survival mode. In Creative mode, players have access to all the blocks and items in the game. They can also fly around the world and place blocks wherever they want. In Survival mode, players must gather resources to build tools and shelter from the environment. MCPE was first released in 2011 as an alpha version. The full release of the game was in August of 2014.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mcpe-dl/mcpe-dl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can [DOWNLOAD MCPE MASTER](https://minecraftsync.com/get-mcpe-master) to get tons of mods, skins and addons.
